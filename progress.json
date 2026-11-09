@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-17T17:17:33.811Z",
+  "generated_at": "2026-11-17T17:17:35.983Z",
   "items": {
     "problem:2": {
       "kind": "problem",
@@ -52,6 +52,39 @@
       "last_pushed_at": "2026-11-07T07:15:48.064Z",
       "language": "python",
       "lines": 14
+    },
+    "math:11": {
+      "kind": "math",
+      "id": "11",
+      "title": "Determinants and Trace",
+      "difficulty": "medium",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/math-problems/11",
+      "path": "math/0011-determinants-and-trace",
+      "first_solved_at": "2026-11-09T21:24:24.594Z",
+      "last_pushed_at": "2026-11-09T21:24:24.594Z"
+    },
+    "math:12": {
+      "kind": "math",
+      "id": "12",
+      "title": "Inverse and Rank",
+      "difficulty": "medium",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/math-problems/12",
+      "path": "math/0012-inverse-and-rank",
+      "first_solved_at": "2026-11-09T21:26:24.929Z",
+      "last_pushed_at": "2026-11-09T21:26:24.929Z"
+    },
+    "math:13": {
+      "kind": "math",
+      "id": "13",
+      "title": "Solving Linear Systems",
+      "difficulty": "medium",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/math-problems/13",
+      "path": "math/0013-solving-linear-systems",
+      "first_solved_at": "2026-11-09T21:39:20.660Z",
+      "last_pushed_at": "2026-11-09T21:39:20.660Z"
     }
   }
 }
