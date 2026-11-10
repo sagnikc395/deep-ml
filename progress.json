@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-17T17:17:35.983Z",
+  "generated_at": "2026-11-17T17:17:37.799Z",
   "items": {
     "problem:2": {
       "kind": "problem",
@@ -85,6 +85,43 @@
       "path": "math/0013-solving-linear-systems",
       "first_solved_at": "2026-11-09T21:39:20.660Z",
       "last_pushed_at": "2026-11-09T21:39:20.660Z"
+    },
+    "math:14": {
+      "kind": "math",
+      "id": "14",
+      "title": "Orthogonality and Projections",
+      "difficulty": "medium",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/math-problems/14",
+      "path": "math/0014-orthogonality-and-projections",
+      "first_solved_at": "2026-11-10T05:34:44.982Z",
+      "last_pushed_at": "2026-11-10T05:34:44.982Z"
+    },
+    "problem:7": {
+      "kind": "problem",
+      "id": "7",
+      "title": "Matrix Transformation ",
+      "difficulty": "medium",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/7",
+      "path": "problems/0007-matrix-transformation",
+      "first_solved_at": "2026-11-10T05:38:21.830Z",
+      "last_pushed_at": "2026-11-10T05:38:21.830Z",
+      "language": "python",
+      "lines": 41
+    },
+    "problem:205": {
+      "kind": "problem",
+      "id": "205",
+      "title": "Entropy & Cross-Entropy",
+      "difficulty": "medium",
+      "category": "Information Theory",
+      "url": "https://www.deep-ml.com/problems/205",
+      "path": "problems/0205-entropy-cross-entropy",
+      "first_solved_at": "2026-11-10T18:11:20.323Z",
+      "last_pushed_at": "2026-11-10T18:11:20.323Z",
+      "language": "python",
+      "lines": 38
     }
   }
 }
