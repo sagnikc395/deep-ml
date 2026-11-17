@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**11** solved · 6 problems · 0 labs · 5 math
+**13** solved · 8 problems · 0 labs · 5 math
 
 ![Coverage](./coverage.svg)
 
@@ -14,9 +14,11 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | --- | --- | --- | --- |
 | [Calculate Mean by Row or Column](https://www.deep-ml.com/problems/4) | easy | 2026-11-07 | [solution](problems/0004-calculate-mean-by-row-or-column) |
 | [Reshape Matrix](https://www.deep-ml.com/problems/3) | easy | 2026-11-07 | [solution](problems/0003-reshape-matrix) |
+| [Tensor Puzzle: Ones Vector from First Principles](https://www.deep-ml.com/problems/1268) | easy | 2026-11-17 | [solution](problems/1268-tensor-puzzle-ones-vector-from-first-principles) |
 | [Transpose of a Matrix](https://www.deep-ml.com/problems/2) | easy | 2026-11-07 | [solution](problems/0002-transpose-of-a-matrix) |
 | [Calculate Eigenvalues of a Matrix](https://www.deep-ml.com/problems/6) | medium | 2026-11-07 | [solution](problems/0006-calculate-eigenvalues-of-a-matrix) |
 | [Entropy & Cross-Entropy](https://www.deep-ml.com/problems/205) | medium | 2026-11-10 | [solution](problems/0205-entropy-cross-entropy) |
+| [Matrix times Matrix ](https://www.deep-ml.com/problems/9) | medium | 2026-11-17 | [solution](problems/0009-matrix-times-matrix) |
 | [Matrix Transformation ](https://www.deep-ml.com/problems/7) | medium | 2026-11-10 | [solution](problems/0007-matrix-transformation) |
 
 ## Math
